@@ -1,0 +1,20 @@
+PODS:
+  - EasyPeasy (1.4.1)
+  - Realm (2.4.2):
+    - Realm/Headers (= 2.4.2)
+  - Realm/Headers (2.4.2)
+  - RealmSwift (2.4.2):
+    - Realm (= 2.4.2)
+
+DEPENDENCIES:
+  - EasyPeasy
+  - RealmSwift
+
+SPEC CHECKSUMS:
+  EasyPeasy: b8a2feebd47395aaf46bde178abcddd36c922d37
+  Realm: d27b758e12d62a3371879a065d4c40aa212c5a54
+  RealmSwift: 9556c0fe0f0cfecacfb755ae9e68ff379fc6bead
+
+PODFILE CHECKSUM: 990d0bc16e74f824da210c898b90080f16f37b46
+
+COCOAPODS: 1.2.0.beta.1
